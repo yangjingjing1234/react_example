@@ -1,0 +1,70 @@
+http://api.nuagetimes.net/Goods/getCategoryList
+
+
+局域网数据，看不到需要自己写个数据
+
+{
+result: {
+list: [
+{
+indiana_category_id: "17",
+indiana_category_name: "手機平板",
+parent_id: "0",
+status: 0,
+goodsSort: "ONE",
+category_img: "http://api.nuagetimes.net/upload/images/gallery/5/z/216_src.png"
+},
+{
+indiana_category_id: "18",
+indiana_category_name: "電腦辦公",
+parent_id: "0",
+status: 0,
+goodsSort: "ONE",
+category_img: "http://api.nuagetimes.net/upload/images/gallery/5/u/211_src.png"
+},
+{
+indiana_category_id: "19",
+indiana_category_name: "女性時尚",
+parent_id: "0",
+status: 0,
+goodsSort: "ONE",
+category_img: "http://api.nuagetimes.net/upload/images/gallery/5/x/214_src.png"
+},
+{
+indiana_category_id: "20",
+indiana_category_name: "潮流新品",
+parent_id: "0",
+status: 0,
+goodsSort: "ONE",
+category_img: "http://api.nuagetimes.net/upload/images/gallery/5/t/210_src.png"
+},
+{
+indiana_category_id: "58",
+indiana_category_name: "新手体验",
+parent_id: "0",
+status: 0,
+goodsSort: "ONE",
+category_img: ""
+},
+{
+indiana_category_id: "57",
+indiana_category_name: "10元專區",
+parent_id: "0",
+status: 0,
+goodsSort: "ONE",
+category_img: "http://api.nuagetimes.net/upload/images/gallery/6/1/218_src.png"
+},
+{
+indiana_category_id: "59",
+indiana_category_name: "点卡礼券",
+parent_id: "0",
+status: 0,
+goodsSort: "ONE",
+category_img: ""
+}
+],
+code: 0
+}
+}
+
+
