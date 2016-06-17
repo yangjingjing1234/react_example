@@ -1,8 +1,10 @@
 # 测试用例
-1,tab 选项卡
-2，左右滑动的布局
-3，动画，自动轮播图
-
+<p>1, tab 选项卡 简单的选项卡，2种方法写的，可以复用</p>
+<p>2，left_right_animation 左右滑动的布局</p></p>
+<p>3，animation  动画，2个组件之间的动画，用的插件ReactCSSTransitionGroup 动画插件，比较坑</p>
+<p>4，time_tab 自动轮播的banner图</p>
+<p>5, webpack   用webpack 写的一个打包工具</p>
+<p>6, forceUpdate   forceUpdate 方法强制刷新案例，对于页面渲染优化很有帮助</p>
 
 
 
