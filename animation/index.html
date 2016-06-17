@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+  img{
+   /* position: absolute;*/
+  }
+.student {
+    float: left;
+  }
+  .student-enter {
+    opacity: .2;
+    transform: translate(640px,0);
+    transition: all .5s ease-in;
+  }
+  .student-enter-active {
+    transform: translate(0px,0);
+    opacity: 1;
+  }
+  .student-leave {
+    transform: translate(0,0);
+    opacity: 1;
+    transition: all .5s ease-in;
+  }
+  .student-leave-active {
+    transform: translate(-640px,0);
+    opacity: 0;
+  }
+
+  .student-appear {
+   opacity: 0.01;
+   transform: translate(640px,0);
+  }
+
+  .student-appear.student-appear-active {
+    opacity: 1;
+    transform: translate(0,0);
+    transition: all .5s ease-in;
+  }
+	</style>
+</head>
+<body>
+
+<div id="animContainerId"></div>
+<script src="dist/js/main.js"></script>
+
+</body>
+</html>

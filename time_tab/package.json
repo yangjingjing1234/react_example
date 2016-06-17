@@ -1,0 +1,23 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "Ŀ¼�ṹ\r css/less/*.less  \r images/*.png|.jpg\r js/es6/*.es6\r js/jsx/*.jsx\r js/libs/*.js  ������һЩ��Ҫ�Ĳ�����",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  },
+  "devDependencies": {
+    "jquery": "^2.2.4",
+    "react-addons": "^0.9.0",
+    "react-addons-css-transition-group": "^15.1.0",
+    "react-addons-linked-state-mixin": "^15.1.0",
+    "react-addons-pure-render-mixin": "^15.1.0",
+    "slide": "^1.1.6"
+  }
+}
