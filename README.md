@@ -6,7 +6,7 @@
 <p>5, webpack   用webpack 写的一个打包工具</p>
 <p>6, forceUpdate   forceUpdate 方法强制刷新案例，对于页面渲染优化很有帮助</p>
 
-
+<br> 
 
 findDOMNode()：获取真实的DOM
 forceUpdate()：强制更新
