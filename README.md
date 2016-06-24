@@ -28,3 +28,10 @@ forceUpdate()：强制更新
 
   (2),在控制台打印,会发现forceUpdate()方法强制执行的时候，跟没有判断shouldComponentUpdate()是一样的，每次都会走生命周期。</p>
         
+react 入坑1：
+
+ajax请求数据里面setState()数据，如果子组件还没加载完，此时改变数据，回报错
+情形:
+解决：
+入坑2：
+
